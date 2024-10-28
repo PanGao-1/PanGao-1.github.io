@@ -21,4 +21,4 @@ redirect_from:
 
 ### My work and code
 
-  Our method for 3d object detection： [M~P~C~F](https://github.com/ELOESZHANG/MPCF--3d_object_detection)  
+  Our method for 3d object detection： [M-P-C-F](https://github.com/ELOESZHANG/MPCF--3d_object_detection)  
