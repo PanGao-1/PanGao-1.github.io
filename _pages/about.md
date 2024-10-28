@@ -15,9 +15,9 @@ redirect_from:
   I am very fortunate to be advised by [Prof. Ping Zhang](https://sose.uestc.edu.cn/info/1184/7985.htm) from [UESTC](https://www.uestc.edu.cn/). 
  
 ### E-mail
-  [E-mail：gao1252900389@uestc.edu.cn](mailto:gao1252900389@uestc.edu.cn) /[E-mail：1252900389@qq.com](mailto:1252900389@qq.com)
+  E-mail：[gao1252900389@uestc.edu.cn](mailto:gao1252900389@uestc.edu.cn) / [1252900389@qq.com](mailto:1252900389@qq.com)
 
-  [Github：https://github.com/PanGao-1](https://github.com/PanGao-1) )
+  Github：[https://github.com/PanGao-1](https://github.com/PanGao-1) 
 
 ### My work and code
 
